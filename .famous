@@ -1,0 +1,1 @@
+{"container_id":"016e5b24-529a-42a2-9d53-0a39dba3b4aa","container_name":"physics","widget_name":"physics","widget_id":"e2c29dc5-ac08-435d-a5b1-9e1ef1f13a9b","scripts":{"deploy":[["run","build"]],"setup":["install"]}}
